@@ -83,11 +83,3 @@ sudo sh -c 'echo "127.0.0.1 welcome-lab-01.apps-crc.testing time-lab-02.apps-crc
 ```
 
 > NOTE: you will be prompted for your MacBook password
-
-
-pricelist-lab-04
-pricelist2-lab-04
-blue-route-lab-06
-bluegreen-lab-07
-scm-web-hooks-lab-08
-node-app-lab-10
